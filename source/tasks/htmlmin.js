@@ -9,7 +9,7 @@ module.exports = function(grunt, options){
         collapseWhitespace: true
       },
       files: {
-        '<%= projectDir %>index.html': '<%= projectDev %>html/index.html',
+        'index.html': '<%= projectDev %>html/index.html',
       }
     }
   };
