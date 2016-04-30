@@ -6,8 +6,8 @@ module.exports = function(grunt) {
     init: true,
     configPath: path.join(process.cwd(), 'source/tasks'),
     data: {
-      projectRoot  : '../../',
-      projectDir  : '../../assets/',
+      projectRoot  : './',
+      projectDir  : 'assets/',
       projectDev  : 'source/assets/',
       projectVendor: 'node_modules/',
       pkg: grunt.file.readJSON('package.json')
