@@ -14,7 +14,6 @@ module.exports = function(grunt, options){
       files: {
         '<%= projectDir %>js/script.min.js':
         [
-        '<%= projectVendor %>jquery/dist/jquery.min.js',
         '<%= projectDev %>js/maps.js',
         '<%= projectDev %>js/script.js'
         ]
