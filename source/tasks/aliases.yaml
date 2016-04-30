@@ -1,0 +1,10 @@
+default:
+  - 'clean'
+  - 'sass'
+#  - 'autoprefixer'
+  - 'cmq'
+  - 'cssmin'
+#  - 'jshint'
+  - 'uglify'
+  - 'imagemin'
+  - 'htmlmin'
