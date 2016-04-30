@@ -3,6 +3,12 @@
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
 [![issues](https://img.shields.io/github/issues/resource-solutions/resource-animated-google-map-markers.svg?style=flat-square)](https://github.com/resource-solutions/resource-animated-google-map-markers/issues)
 
+## Installation
+
+```bash
+npm install
+```
+
 ## Contributing
 
 - Fork it!
