@@ -1,0 +1,13 @@
+@include x-keyframes(pulse) {
+  to { #{$browser}transform: scale(0.7); }
+}
+
+@include x-keyframes(wobble) {
+  from { #{$browser}transform: none; }
+  15%  { #{$browser}transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg); }
+  30%  { #{$browser}transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg); }
+  45%  { #{$browser}transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg); }
+  60%  { #{$browser}transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg); }
+  75%  { #{$browser}transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg); }
+  to   { #{$browser}transform: none; }
+}

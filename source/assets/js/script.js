@@ -60,7 +60,7 @@ domReady(function(event) {
       }, "geometry": { "type": "Point", "coordinates": [ -43.172896, -22.906847 ] } }
     ];
 
-    map = new google.maps.Map(document.getElementById('js-map'), mapOptions);
+    map = new google.maps.Map(document.querySelector('[data-js="map"]'), mapOptions);
 
     var myIcon ='assets/css/img/icon.png';
     //https://developers.google.com/maps/documentation/javascript/reference#Icon

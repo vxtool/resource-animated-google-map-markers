@@ -1,5 +1,5 @@
 {
-  "name": "resource_animated_google_map_markers",
+  "name": "resource-animated-google-map-markers",
   "version": "1.0.0",
   "devDependencies": {
     "grunt": ">=0.4.5",

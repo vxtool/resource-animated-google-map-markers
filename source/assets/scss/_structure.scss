@@ -1,0 +1,15 @@
+.container {
+  height:500px;
+  width:100%;
+  position: relative;
+}
+
+.map {
+  height:100%;
+  width:100%;
+}
+
+#target img {
+  @include x-prefix(animation, pulse .5s infinite alternate);
+  @include x-prefix(transform-origin, center);
+}
