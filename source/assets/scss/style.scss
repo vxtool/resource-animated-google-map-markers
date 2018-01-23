@@ -1,20 +1,20 @@
-@import "../../vendor/prime-itcss/source/scss/00-settings/_variables";
-@import "../../vendor/prime-itcss/source/scss/00-settings/_placeholders";
+@import "../../../node_modules/prime-itcss/source/scss/00-settings/_variables";
+@import "../../../node_modules/prime-itcss/scss/00-settings/_placeholders";
 
-@import "../../vendor/prime-itcss/source/scss/01-tools/_functions";
-@import "../../vendor/prime-itcss/source/scss/01-tools/_mixins";
+@import "../../../node_modules/prime-itcss/scss/01-tools/_functions";
+@import "../../../node_modules/prime-itcss/scss/01-tools/_mixins";
 
-@import "../../vendor/prime-itcss/source/scss/02-generic/_reset";
-@import "../../vendor/prime-itcss/source/scss/02-generic/_box-sizing";
+@import "../../../node_modules/prime-itcss/scss/02-generic/_reset";
+@import "../../../node_modules/prime-itcss/scss/02-generic/_box-sizing";
 
-@import "../../vendor/prime-itcss/source/scss/03-base/_fonts";
-@import "../../vendor/prime-itcss/source/scss/03-base/_page";
-@import "../../vendor/prime-itcss/source/scss/03-base/_images";
+@import "../../../node_modules/prime-itcss/scss/03-base/_fonts";
+@import "../../../node_modules/prime-itcss/scss/03-base/_page";
+@import "../../../node_modules/prime-itcss/scss/03-base/_images";
 
-@import "../../vendor/prime-itcss/source/scss/07-pages/_default";
+@import "../../../node_modules/prime-itcss/scss/07-pages/_default";
 
-@import "../../vendor/prime-itcss/source/scss/09-trumps/_grid";
-@import "../../vendor/prime-itcss/source/scss/09-trumps/_print";
+@import "../../../node_modules/prime-itcss/scss/09-trumps/_grid";
+@import "../../../node_modules/prime-itcss/scss/09-trumps/_print";
 
 @import "_animations";
 @import "_structure";

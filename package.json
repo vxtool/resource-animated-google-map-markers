@@ -20,6 +20,6 @@
     "load-grunt-config": "^0.19.1"
   },
   "scripts": {
-    "postinstall": "bower install && grunt"
+    "postinstall": "grunt"
   }
 }
