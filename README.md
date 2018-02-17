@@ -1,7 +1,7 @@
 # Animated Google Map Markers
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/resource-solutions/resource-animated-google-map-markers.svg?style=flat-square)](https://github.com/resource-solutions/resource-animated-google-map-markers/issues)
+[![issues](https://img.shields.io/github/issues/descco-tools/resource-animated-google-map-markers.svg?style=flat-square)](https://github.com/descco-tools/resource-animated-google-map-markers/issues)
 
 ## Installation
 
@@ -19,7 +19,7 @@ npm install
 
 ## Log
 
-Check [Releases](https://github.com/resource-solutions/resource-animated-google-map-markers/releases) for detailed changelog.
+Check [Releases](https://github.com/descco-tools/resource-animated-google-map-markers/releases) for detailed changelog.
 
 ## License
 
