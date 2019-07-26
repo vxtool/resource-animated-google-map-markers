@@ -1,7 +1,12 @@
 # Animated Google Map Markers
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/descco-tools/resource-animated-google-map-markers.svg?style=flat-square)](https://github.com/descco-tools/resource-animated-google-map-markers/issues)
+[![GitHub issues](https://img.shields.io/github/issues/org-victorinox/resource-animated-google-map-markers.svg)](https://github.com/org-victorinox/resource-animated-google-map-markers/issues)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/org-victorinox/resource-animated-google-map-markers.svg)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-victorinox/resource-animated-google-map-markers.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-victorinox/resource-animated-google-map-markers.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/resource-animated-google-map-markers.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/resource-animated-google-map-markers/total.svg)
 
 ## Installation
 
@@ -19,7 +24,7 @@ npm install
 
 ## Log
 
-Check [Releases](https://github.com/descco-tools/resource-animated-google-map-markers/releases) for detailed changelog.
+Check [Releases](https://github.com/org-victorinox/resource-animated-google-map-markers/releases) for detailed changelog.
 
 ## License
 
